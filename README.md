@@ -1,2 +1,2 @@
 # ISO-27001-Implementation-and-Toolkit-Development
-Managed ISO 27001 implementation, overseeing development, and maintenance of an ISMS. Created toolkit for industry standards, ensuring clear documentation for effective compliance.
+Managed ISO 27001 implementation, overseeing the development, implementation, and maintenance of an information security management system (ISMS) based on ISO 27001 standards. Created a comprehensive toolkit for industry standards, including presentations, process plans, implementation documents, checklists, and management materials. Ensured clear documentation of standards and best practices, facilitating effective compliance.
